@@ -1,2 +1,2 @@
-# MINOR_PROJECT
+# MINI_PROJECT
 Image_classification
